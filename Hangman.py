@@ -1,1 +1,1 @@
-#hangman project by Pawel Wisniewski
+#hangman project by Pawel Wisniewski 2022-09
