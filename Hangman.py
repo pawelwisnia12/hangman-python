@@ -1,1 +1,1 @@
-print("github")
+#hangman project by Pawel Wisniewski
